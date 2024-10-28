@@ -1,0 +1,8 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "editor.inlayHints.padding": true,
+    "C_Cpp.inlayHints.parameterNames.enabled": true,
+    "php.inlayHints.parameters.byReference": false,
+    "javascript.inlayHints.functionLikeReturnTypes.enabled": true
+}
