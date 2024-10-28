@@ -1,4 +1,5 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+![Screenshot_1730145433](https://github.com/user-attachments/assets/767d37c0-b01f-4471-ba78-2c36f643ad8d)
 
 # Getting Started
 
